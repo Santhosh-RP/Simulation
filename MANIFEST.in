@@ -1,0 +1,4 @@
+include survivalenv/assets/*.xml
+include survivalenv/assets/*.png
+include survivalenv/assets/*.jpg
+

@@ -1,0 +1,6 @@
+__pycache__
+*.pth
+MUJOCO_LOG.TXT
+build
+survivalenv.egg-info
+
