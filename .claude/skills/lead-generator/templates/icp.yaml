@@ -1,0 +1,46 @@
+# ICP template. Fill every field. Leave null only if truly unknown.
+product: ""                    # e.g. "RevOps-as-a-service for Series B SaaS"
+pain: ""                       # one sentence — the pain the product kills
+
+jtbd:                          # Job To Be Done statement
+  situation: ""                # when [situation]
+  motivation: ""               # I want to [motivation]
+  outcome: ""                  # so I can [outcome]
+
+one_line_offer: ""             # "I help [X] get [Y] without [Z]"
+
+firmographics:
+  industries: []               # e.g. ["B2B SaaS", "dev tools"]
+  size_range: ""               # one of: 1-10, 11-50, 51-200, 201-1000, 1000+
+  geographies: []              # e.g. ["US", "Canada", "UK"]
+  stack_must_have: []          # tools they must use
+  stack_must_not_have: []      # tools that disqualify
+
+persona:
+  titles: []                   # e.g. ["VP Sales", "Head of RevOps"]
+  seniority: ""                # IC | manager | director | VP | C-level
+  daily_workflow: ""           # 1-sentence description
+  kpi: ""                      # what number they are measured on
+
+# Triggers — the observable events that mean pain just crossed the threshold.
+# 5–8 items. Be specific and verb-led.
+triggers:
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+
+# Disqualifiers — reasons to hard-skip a lead even if they fit.
+disqualifiers:
+  - ""
+
+# Pain angles — 3–5 distinct ways the pain shows up. Used in messaging variants.
+pain_angles:
+  - tag: ""                    # short tag used in tracking.csv (e.g. "forecast-drift")
+    description: ""            # one sentence
+
+# Message anchors — boilerplate snippets you want reused across variants.
+anchors:
+  loss_math: ""                # e.g. "each week of drift ≈ $X at your ACV"
+  proof_point: ""              # e.g. "we did this for [similar company] in 30 days"
