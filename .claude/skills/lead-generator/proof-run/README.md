@@ -1,17 +1,17 @@
-# Proof run — voice agents for Indian real estate (2026-04-19)
+# Proof run — voice agents for Indian real estate (2026-04-19, 70-lead expansion)
 
 End-to-end execution of Phases 3 → 5 of the `lead-generator` skill on a live ICP: **voice agents for Indian real estate sales teams**.
 
-Every LinkedIn URL below was verified via WebSearch (`"First Last" Company site:linkedin.com/in`) during this run. 5 candidates were dropped because the SERP could not conclusively confirm role (Abhishek Lodha / Macrotech, Jitu Virwani / Embassy, Neel Raheja / K Raheja, Rohit Kapoor / OYO, Kunal Walia / Table Space).
+Every LinkedIn URL below was verified via WebSearch (`"First Last" Company site:linkedin.com/in`) during this run. Candidates were dropped where SERP could not conclusively confirm role (e.g. Abhishek Lodha, Jitu Virwani, Neel Raheja, Rohit Kapoor, Kunal Walia, Getamber Anand, KT Jithendran, Shrikant Joshi, Sudhanshu Gupta, Gautam Thacker, Yash Miglani, Venkat K Narayana).
 
 ## Artifacts
 
 | File | Phase | Rows |
 |---|---|---|
 | `icp.yaml` | 2 (input) | — |
-| `raw.jsonl` | 3 — in-motion signals captured | 34 |
-| `enriched.jsonl` | 4 — public-only enrichment | 34 |
-| `scored.jsonl` | 5 — deterministic scoring | 34 |
+| `raw.jsonl` | 3 — in-motion signals captured | 70 |
+| `enriched.jsonl` | 4 — public-only enrichment | 70 |
+| `scored.jsonl` | 5 — deterministic scoring | 70 |
 | `hot-list.csv` | 5 — dedup + top-30 cap | 30 |
 
 ## Scoring formula
@@ -22,15 +22,19 @@ Time-decay on signal freshness — days 0-7 → ×1.0, 8-30 → ×0.75, 31-60 �
 Tiers — ≥80 A, 60-79 B, 40-59 C, <40 D.
 Amplify-family bonus (+10 each, cap +20) for `failed-attempt` and `tool-churn` signals.
 
-## Tier distribution (today = 2026-04-19)
+## Tier distribution (today = 2026-04-19, N=70)
 
 | Tier | Score | Count | Notes |
 |---|---|---|---|
-| A | 100 | 11 | Multiple fresh signals (<30 d) + full accessibility |
+| A | 100 | 11 | Multiple fresh signals (≤30 d) + full accessibility |
 | A | 97 | 2 | Title-mismatch -3 (SVP / CEO vs persona list) |
-| A | 80 | 12 | Single fresh signal + full accessibility |
-| B | 77 | 2 | Single fresh signal + title-mismatch |
-| B | 70 | 3 | Single signal aged 25-35 days |
+| A | 95 | 1 | Amplify bonus + minor fit penalty |
+| A | 90 | 4 | Fresh dual signals with mild title/size mismatch |
+| A | 80 | 35 | Single fresh signal + full accessibility |
+| B | 77 | 10 | Single fresh signal + title or size mismatch |
+| B | 70 | 7 | Single signal aged 25-35 days |
+
+**Totals — A = 53, B = 17, C = 0, D = 0.** Top-30 hot-list cap returns only A-tier leads.
 
 ## Top 11 — A-tier, score 100
 
