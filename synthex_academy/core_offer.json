@@ -1,0 +1,73 @@
+{
+  "brand": "Synthex Academy",
+  "tagline": "Get More UK Job Interviews with a Job-Targeted Career Acceleration System",
+  "positioning_statement": "I am struggling to get interview calls in the UK. Synthex Academy helps me fix that.",
+  "target_audience": [
+    "Students",
+    "Recent graduates",
+    "Career switchers",
+    "Working professionals"
+  ],
+  "services": [
+    "UK-standard ATS-friendly CV/Resume",
+    "Job-specific CV tailoring",
+    "LinkedIn profile optimisation",
+    "Personalised job search support",
+    "Job application assistance",
+    "Cover letter support",
+    "Interview preparation",
+    "Career positioning for UK employers"
+  ],
+  "offer_statements": {
+    "strong": "We help UK job seekers get more interview calls by building a recruiter-ready profile, tailoring their CV for the right roles, and supporting them through the application process.",
+    "high_value": "If you are applying for jobs in the UK but not getting interview calls, Synthex Academy helps you fix the exact problems holding you back — from weak CVs and poor LinkedIn profiles to untargeted applications and lack of role positioning.",
+    "main": "Synthex Academy helps students, recent graduates, career switchers, and working professionals in the UK get more interview opportunities through ATS-optimised CVs, LinkedIn optimisation, targeted job applications, and interview preparation."
+  },
+  "landing_page": {
+    "headline": "Not Getting Interview Calls in the UK?",
+    "subheadline": "Synthex Academy helps students, graduates, career switchers, and working professionals build a stronger CV, optimise LinkedIn, and apply smarter for UK jobs.",
+    "promise": "Stop applying randomly. Start applying with a profile built to get shortlisted."
+  },
+  "offer_options": {
+    "simple_direct": {
+      "name": "UK Job Accelerator Program",
+      "description": "A complete support system to help you:",
+      "items": [
+        "Build a UK-standard CV",
+        "Tailor it to target roles",
+        "Improve LinkedIn visibility",
+        "Apply strategically",
+        "Prepare for interviews"
+      ]
+    },
+    "outcome_based": {
+      "name": "From Low Response to More Interview Calls",
+      "description": "We help you transform your profile into a stronger UK-market application system."
+    },
+    "premium": {
+      "name": "Synthex Academy Career Acceleration Program",
+      "description": "A guided service for ambitious job seekers in the UK who want to improve their chances of getting shortlisted faster."
+    }
+  },
+  "niche_positioning": {
+    "students": "Land your first job in the UK with a stronger CV, better applications, and career guidance.",
+    "recent_graduates": "Turn your academic background into a marketable professional profile that recruiters notice.",
+    "career_switchers": "Reposition your past experience to match your new target role and improve your shortlist chances.",
+    "working_professionals": "Move to a better role with a more strategic CV, stronger LinkedIn presence, and targeted applications."
+  },
+  "taglines": [
+    "Apply Smarter. Get Shortlisted Faster.",
+    "Your UK Career Starts with the Right Positioning.",
+    "More Than a CV. A Complete Job Search System.",
+    "Built for UK Job Seekers Who Want Real Results.",
+    "From Applications to Interview Calls."
+  ],
+  "ctas": [
+    "Book Your Career Review",
+    "Get Your CV Reviewed",
+    "Start Your UK Job Acceleration",
+    "Upgrade Your Profile Today",
+    "Let's Build Your Interview-Ready Profile"
+  ],
+  "premium_angle": "Synthex Academy is not just CV writing. It is a job search acceleration system for the UK market."
+}
