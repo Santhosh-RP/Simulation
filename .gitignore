@@ -4,3 +4,6 @@ MUJOCO_LOG.TXT
 build
 survivalenv.egg-info
 
+__pycache__/
+*.pyc
+hot-list/

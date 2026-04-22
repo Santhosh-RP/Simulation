@@ -1,0 +1,67 @@
+product: "Voice agents for Indian real estate (multilingual inbound qualification + after-hours cover)"
+pain: "Portal and launch-day leads go cold inside 30 minutes because tele-caller bench cannot absorb volume in Hindi plus regional languages around the clock."
+
+jtbd:
+  situation: "my portal and launch leads are decaying before a human calls"
+  motivation: "qualify every inbound in under 60 seconds in the caller's language, 24x7"
+  outcome: "site-visit bookings and NRI conversions stop leaking into the night window"
+
+one_line_offer: "I help Indian real-estate sales heads qualify 100% of portal and launch inbound in under 60 seconds without hiring another tele-caller shift"
+
+firmographics:
+  industries:
+    - "Real estate developer"
+    - "Proptech platform"
+    - "Co-living"
+    - "Coworking / managed office"
+    - "Real estate brokerage"
+  size_range:
+    - "201-1000"
+    - "1000+"
+  geographies:
+    - "India"
+  stack_must_have: []
+  stack_must_not_have:
+    - "fully offshore BPO call-centre"
+
+persona:
+  titles:
+    - "Founder"
+    - "CEO"
+    - "Managing Director"
+    - "Head of Sales"
+    - "VP Sales"
+    - "Chief Revenue Officer"
+  seniority: "C-level"
+  daily_workflow: "owns sales pipeline, tele-calling, portal spend, CRM discipline"
+  kpi: "cost per qualified lead, site-visit bookings, close rate"
+
+triggers:
+  - "hiring tele-callers or inside-sales managers"
+  - "launching a new tower or project this quarter"
+  - "raising a round or filing DRHP"
+  - "expanding to a new city or NRI channel"
+  - "public complaints about slow call response"
+  - "announcing an IPO or post-listing scale-up"
+  - "adding regional-language customer-care roles"
+
+disqualifiers:
+  - "pre-seed stage"
+  - "single-project unorganised builder"
+  - "pure land aggregator with no inbound"
+
+pain_angles:
+  - tag: "portal-decay"
+    description: "99acres and MagicBricks leads cool 80 percent after five minutes and 30-minute first-touch kills 60 percent of conversions"
+  - tag: "after-hours-loss"
+    description: "parent, working-professional and NRI calls arrive after 8pm when no tele-caller is on shift"
+  - tag: "launch-spike"
+    description: "launch-day or pre-launch inbound exceeds tele-caller bench and overflow is never re-dialled"
+  - tag: "language-gap"
+    description: "Hindi plus Kannada Telugu Marathi Gujarati coverage is thin and callers drop after English prompt"
+  - tag: "partner-call-load"
+    description: "channel-partner and broker-facing calls consume 35 percent of ops capacity"
+
+anchors:
+  loss_math: "a 30-minute first-touch on portal leads typically leaks 60 percent of conversions; on 8k leads per month at a 1 percent lift that is 80 extra site visits"
+  proof_point: "voice-agent qualification in under 60 seconds with live human handover only on BANT-qualified callers"
