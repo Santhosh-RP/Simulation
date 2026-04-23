@@ -9,18 +9,79 @@
 
 ---
 
-## Core Positioning Statement
+## The Core Offer (Primary — Use This Everywhere)
 
-> "I am struggling to get interview calls in the UK. Synthex Academy helps me fix that."
+### Hook
+Are you applying for jobs in the UK but not getting any interviews?
+
+### Brand Promise
+Travel with Synthex Academy.
+We help you get your first 2 interview calls in the next 2 weeks.
+
+### Guarantee (Risk Reversal)
+Until your first interview call — you don't pay a single pound.
+We work for free.
+
+### Call to Action
+Book your free discovery call — link below.
 
 ---
 
-## Brand Offer
+## Full Offer Copy (Long Form)
 
-**Synthex Academy**
-Get More UK Job Interviews with a Job-Targeted Career Acceleration System
+Are you applying for jobs in the UK but not getting any interviews?
 
-We help students, graduates, career switchers, and working professionals in the UK become job-ready and interview-ready with a complete support system designed to improve their chances of getting shortlisted.
+You are not alone — and it is not your fault.
+
+Most people apply with the wrong CV, the wrong positioning, and no clear strategy.
+That is why recruiters ignore them.
+
+At **Synthex Academy**, we fix that.
+
+We help you get your first **2 interview calls within 2 weeks** — with a recruiter-ready CV,
+an optimised LinkedIn profile, and a targeted application strategy built for the UK job market.
+
+And here is our guarantee:
+
+> **Until you get your first interview call, you do not pay a single pound.**
+> We work for free until we deliver results.
+
+No risk. No upfront cost. Just results.
+
+Book your **free discovery call** today — link below.
+
+---
+
+## Short Versions
+
+### Social / WhatsApp Version
+Applying for jobs in the UK but getting zero interviews?
+
+Synthex Academy helps you get your first 2 interview calls in 2 weeks.
+
+And until your first interview call — you don't pay a single pound.
+We work for free.
+
+Book your free discovery call — link below.
+
+### One-Liner
+We help UK job seekers get their first 2 interview calls in 2 weeks — or we work for free.
+
+### Poster / Banner Headline
+Not Getting Interviews in the UK?
+Get Your First 2 Interview Calls in 2 Weeks — Or We Work for Free.
+
+---
+
+## Offer Structure
+
+| Element | Detail |
+|---|---|
+| Pain Hook | Applying for jobs but getting no interviews |
+| Promise | 2 interview calls in 2 weeks |
+| Guarantee | Zero payment until your first interview call |
+| Risk | Zero — we work for free until results are delivered |
+| CTA | Book a free discovery call |
 
 ---
 
@@ -37,124 +98,40 @@ We help students, graduates, career switchers, and working professionals in the 
 
 ---
 
-## Offer Statements
+## Niche-Specific Messaging
 
-### Strong Offer Statement
-We help UK job seekers get more interview calls by building a recruiter-ready profile, tailoring their CV for the right roles, and supporting them through the application process.
+### Students
+Applying for your first job but getting ignored by recruiters?
+Synthex Academy helps you get your first 2 interview calls in 2 weeks — and you don't pay until we deliver.
 
-### High-Value Version
-If you are applying for jobs in the UK but not getting interview calls, Synthex Academy helps you fix the exact problems holding you back — from weak CVs and poor LinkedIn profiles to untargeted applications and lack of role positioning.
+### Recent Graduates
+Got your degree but can't get a single interview call?
+We help you turn your academic background into a profile recruiters actually respond to — 2 interview calls in 2 weeks, or we work for free.
 
-### Best Main Offer Copy
-Synthex Academy helps students, recent graduates, career switchers, and working professionals in the UK get more interview opportunities through ATS-optimised CVs, LinkedIn optimisation, targeted job applications, and interview preparation.
+### Career Switchers
+Switching careers but no one is calling you back?
+We reposition your experience for your new target role and get you 2 interview calls in 2 weeks — no payment until we do.
 
----
-
-## Landing Page / Poster Copy
-
-### Headline
-Not Getting Interview Calls in the UK?
-
-### Subheadline
-Synthex Academy helps students, graduates, career switchers, and working professionals build a stronger CV, optimise LinkedIn, and apply smarter for UK jobs.
-
-### Promise
-Stop applying randomly. Start applying with a profile built to get shortlisted.
-
----
-
-## Offer Structures
-
-### Option 1 — Simple Direct Offer
-**UK Job Accelerator Program**
-A complete support system to help you:
-- Build a UK-standard CV
-- Tailor it to target roles
-- Improve LinkedIn visibility
-- Apply strategically
-- Prepare for interviews
-
-### Option 2 — Outcome-Based Offer
-**From Low Response to More Interview Calls**
-We help you transform your profile into a stronger UK-market application system.
-
-### Option 3 — Premium Positioning
-**Synthex Academy Career Acceleration Program**
-A guided service for ambitious job seekers in the UK who want to improve their chances of getting shortlisted faster.
-
----
-
-## Promotional Versions
-
-### Short Promotional Version
-Struggling to get job interviews in the UK?
-Synthex Academy helps students, graduates, career switchers, and working professionals improve their CV, LinkedIn, and job applications to increase interview chances.
-
-### WhatsApp / Social Offer Version
-Looking for a job in the UK?
-Not getting enough interview calls?
-
-At Synthex Academy, we help:
-- Students
-- Graduates
-- Career switchers
-- Working professionals
-
-with:
-- ATS-friendly UK CVs
-- LinkedIn optimisation
-- Job-targeted applications
-- Interview support
-
-Apply smarter. Get shortlisted faster.
-
-### Stronger Sales Version
-You do not need to apply to hundreds of jobs blindly.
-You need the right CV, the right positioning, and the right application strategy.
-
-That is what Synthex Academy helps you build.
-
-We support UK job seekers with:
-- Recruiter-focused CV transformation
-- Targeted role alignment
-- Better LinkedIn branding
-- Smart job application support
-- Interview preparation
-
----
-
-## Niche-Specific Positioning
-
-| Audience | Positioning |
-|---|---|
-| Students | Land your first job in the UK with a stronger CV, better applications, and career guidance. |
-| Recent graduates | Turn your academic background into a marketable professional profile that recruiters notice. |
-| Career switchers | Reposition your past experience to match your new target role and improve your shortlist chances. |
-| Working professionals | Move to a better role with a more strategic CV, stronger LinkedIn presence, and targeted applications. |
-
----
-
-## Premium Offer Angle
-
-Synthex Academy is not just CV writing.
-It is a job search acceleration system for the UK market.
+### Working Professionals
+Ready for your next role but the interviews aren't coming?
+We sharpen your CV, LinkedIn, and application strategy to get you shortlisted faster — 2 interview calls in 2 weeks, or we work for free.
 
 ---
 
 ## Taglines
 
+- 2 Interview Calls in 2 Weeks — Or We Work for Free.
 - Apply Smarter. Get Shortlisted Faster.
-- Your UK Career Starts with the Right Positioning.
-- More Than a CV. A Complete Job Search System.
-- Built for UK Job Seekers Who Want Real Results.
-- From Applications to Interview Calls.
+- No Interviews? No Payment. Simple.
+- Your UK Career Starts Here. Risk Free.
+- We Don't Get Paid Until You Get Interviews.
 
 ---
 
 ## Calls to Action
 
-- Book Your Career Review
-- Get Your CV Reviewed
-- Start Your UK Job Acceleration
-- Upgrade Your Profile Today
-- Let's Build Your Interview-Ready Profile
+- Book Your Free Discovery Call
+- Claim Your Free Discovery Call
+- Start for Free — Pay Only When You Get Results
+- Get Your First Interview Call — Risk Free
+- Let's Get You Shortlisted — Book Now
